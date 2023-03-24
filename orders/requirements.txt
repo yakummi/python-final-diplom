@@ -1,0 +1,6 @@
+django
+requests
+djangorestframework
+ujson
+pyyaml
+django-rest-passwordreset
